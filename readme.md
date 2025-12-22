@@ -7,6 +7,8 @@ The project aims to demonstrate how democratic processes can be secured using sm
 > **Loktantra (लोकतंत्र)** means *Democracy* — power to the people.
 
 ---
+### Make sure to read contributors-guide.md before starting to contribute on the project!
+---
 
 ## 🚀 Vision & Objectives
 
