@@ -1,0 +1,5 @@
+Name: Naman Pal
+Roll No: IIT2025019
+Branch: IT
+GitHub: https://github.com/Naman2251
+About: First-year IT-BI student at IIITA, interested in problem solving and open-source development.
