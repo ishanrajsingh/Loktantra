@@ -1,0 +1,6 @@
+Name: Sayed Al Amaan Zaidi
+Roll No: 2501010416
+Branch: Computer Science & AI
+GitHub: https://github.com/amaan1114
+About: I am a 1st year student at Rishihood University and I have knowledge about full stack development.
+
