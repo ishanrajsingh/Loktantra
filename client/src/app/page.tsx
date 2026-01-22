@@ -87,7 +87,10 @@ export default function Home() {
   const handleAdminLogin = () => {
     router.push("/admin");
   };
-
+  
+  const handleVoterDashboard = () => {
+    router.push("/dashboard");
+  };
   useEffect(() => {
     const checkExistingConnection = async () => {
       if (!window.ethereum) {
@@ -191,6 +194,16 @@ export default function Home() {
               </>
             )}
           </button>
+          {walletAddress && (
+            <button
+              onClick={handleVoterDashboard}
+              className="w-full bg-green-600 text-white py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors flex items-center justify-center mb-4"
+            >
+              <i className="fas fa-landmark mr-2"></i>
+              Go to Voter Dashboard
+            </button>
+          )}
+
 
           {statusMessage && (
             <div
